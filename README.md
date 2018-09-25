@@ -1,3 +1,2 @@
 # MoviesApp
 
-capa de persistensia
