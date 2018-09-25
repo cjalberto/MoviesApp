@@ -10,7 +10,6 @@ import UIKit
 
 class FooterActivityCollection: UICollectionReusableView {
 
-    var isloaded : Bool = false
     let indicator = UIActivityIndicatorView(activityIndicatorStyle: .white)
     
     override init(frame: CGRect) {
